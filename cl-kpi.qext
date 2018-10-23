@@ -1,0 +1,10 @@
+{
+    "name": "Climber KPI",
+    "description": "KPI Tile",
+    "version": "1.5.1",
+    "license": "Copyright Climber AB",
+    "type": "visualization",
+    "icon": "kpi",
+    "preview": "preview.jpg",
+    "author": "Karl Fredberg Sjöstrand"
+}
